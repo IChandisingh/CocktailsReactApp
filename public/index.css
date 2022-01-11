@@ -1,0 +1,45 @@
+body{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: #35858B;
+  background-color: #FFFDDE;
+}
+nav{
+  background-color: #35858B;
+}
+table{
+  margin: auto;
+}
+.TitleDiv{
+  text-align: center;
+}
+.FormDiv{
+  width:30rem;
+  float: left;
+  text-align: center;
+  margin-left: 10px;
+  padding: 10px;
+  border-style: groove;
+  border-radius: 3%;
+
+  margin-top: 10px;
+
+}
+.ListDiv{
+  text-align: center;
+}
+.Link{
+  margin: 10px;
+  color: #FFFDDE;
+  text-decoration: none;
+}
+.Link:hover{
+  color: #FFCCD2
+}
+.submit{
+  background-color: #35858B;
+  color: #FFFDDE;
+}
+.submit:hover{
+  color: #FFCCD2
+}
